@@ -3,6 +3,7 @@
 ## Intro
 
 This code will help you to sync dashboards from Grafana -> Git
+
 ---
 
 ## How it works
